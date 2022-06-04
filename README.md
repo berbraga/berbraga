@@ -21,6 +21,7 @@
   - 📘 Atualmente, estudo Ciências da Computação, e faco o bootCamp da Labenu de desenvolvedor Full-Stack;
   - 🖇️linkedin : [@bernardo_sbraga](https://www.linkedin.com/in/bernardo-braga-desenvolvedor/) ;
   -  📷 instagram : @berbraga1;
+  -  Yahoo : bernardo.sbraga@yahoo.com
 
 <div align="center">
   <a 
@@ -67,34 +68,19 @@
         width="40" 
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
   >
- 
-<!--   <img 
-       align="center" 
-       alt="Ber-Js" 
-       height="30" https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
-       width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-  >
-  <img 
-       align="center" 
-       alt="Ber-Ts" 
-       height="30" 
-       width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-  > -->
-  
+
  
   <img align="right" alt="Ber-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/FUauf0eX0AAGhKt?format=png&name=360x360">
 
-    <!--   se enjoar da imagem ali , tem essa: 
-  https://pbs.twimg.com/media/FUaufNyXwAECmnh?format=png&name=360x360,
-  https://pbs.twimg.com/media/FUauf0eX0AAGhKt?format=png&name=360x360
+<!--     <!--   se enjoar da imagem ali , tem essa:  -->
+<!--   https://pbs.twimg.com/media/FUaufNyXwAECmnh?format=png&name=360x360, -->
+<!--   https://pbs.twimg.com/media/FUauf0eX0AAGhKt?format=png&name=360x360 -->
  
--->
+
 </div>
   
 
-  ![Snake animation](https://github.com/berbraga/berbraga/blob/output/github-contribution-grid-snake.svg))
+  ![Snake animation](https://github.com/berbraga/berbraga/blob/output/github-contribution-grid-snake.svg)
 
   
   
