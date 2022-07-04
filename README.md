@@ -70,7 +70,7 @@
   >
 
  
-  <img align="right" alt="Ber-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/FUauf0eX0AAGhKt?format=png&name=360x360">
+  <img align="right" alt="Ber-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/FUaufNyXwAECmnh?format=png&name=360x360">
 
 <!--     <!--   se enjoar da imagem ali , tem essa:  -->
 <!--   https://pbs.twimg.com/media/FUaufNyXwAECmnh?format=png&name=360x360, -->
