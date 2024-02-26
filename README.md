@@ -17,7 +17,7 @@
 <img height="100" width="100" style="margin-left:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 <img height="100" width="100" style="margin-left:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-<img height="100" width="100" style="margin-left:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+
 
 </div>
 
